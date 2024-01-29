@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\DataCollection]
+"AllowTelemetry"=dword:00000001
+
+;Below is a descriptor for each key, 0 has the least telemetry 3 gives all your data to MSFT
+;0 = Security (Enterprise and Education editions only)
+;1 = Basic
+;2 = Enhanced
+;3 = Full (Recommended)

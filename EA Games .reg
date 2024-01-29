@@ -1,0 +1,306 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA Games]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA Games\Battlefield 1]
+"DisplayName"="Battlefield™ 1"
+"Locale"="en_US"
+"Product GUID"="{335B50BC-6130-4BAF-9A6A-F1561270587B}"
+"Install Dir"="B:\\Games\\EA\\Battlefield 1\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA Games\Battlefield 4]
+"GDFBinary"="B:\\Games\\EA\\Battlefield 4\\__Installer\\GDFBinary_en_US_64.dll"
+"DisplayName"="Battlefield 4™"
+"Locale"="en_US"
+"Product GUID"="{ABADE36E-EC37-413B-8179-B432AD3FACE7}"
+"Install Dir"="B:\\Games\\EA\\Battlefield 4\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA Games\Battlefield V]
+"DisplayName"="Battlefield™ V"
+"Locale"="en_US"
+"Product GUID"="{e26b382f-e945-4f70-9318-121b683f1d61}"
+"Install Dir"="F:\\Games\\EA\\Battlefield V\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA Games\BFH]
+"GDFBinary"="B:\\Games\\EA\\BFH\\GDFBinary_en_US_64.dll"
+"DisplayName"="Battlefield™ Hardline"
+"Locale"="en_US"
+"Product GUID"="{CB4AC3DA-8CC1-4516-86DA-4078B57DB229}"
+"Install Dir"="B:\\Games\\EA\\BFH\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA Games\STAR WARS Battlefront II]
+"DisplayName"="STAR WARS™ Battlefront™ II"
+"Locale"="en_US"
+"Product GUID"="{8a882ce0-0c0b-4eb2-850c-28ebadab4f50}"
+"Install Dir"="B:\\Games\\EA\\STAR WARS Battlefront II\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 1]
+"DisplayName"="Battlefield™ 1"
+"Locale"="en_US"
+"Product GUID"="{335B50BC-6130-4BAF-9A6A-F1561270587B}"
+"Install Dir"="B:\\Games\\EA\\Battlefield 1\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4]
+"GDFBinary"="B:\\Games\\EA\\Battlefield 4\\__Installer\\GDFBinary_en_US.dll"
+"GDFBinary64"="B:\\Games\\EA\\Battlefield 4\\__Installer\\GDFBinary_en_US_64.dll"
+"DisplayName"="Battlefield 4™"
+"Locale"="en_US"
+"Product GUID"="{ABADE36E-EC37-413B-8179-B432AD3FACE7}"
+"Install Dir"="B:\\Games\\EA\\Battlefield 4\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\DLCs]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\DLCs\Xpack0]
+"UninstallerPath"="\"C:\\Program Files (x86)\\Common Files\\EAInstaller\\Battlefield 4\\Xpack0\\Cleanup.exe\""
+"UninstallerArgs"="uninstall_pdlc -autologging"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\DLCs\Xpack1]
+"UninstallerPath"="\"C:\\Program Files (x86)\\Common Files\\EAInstaller\\Battlefield 4\\Xpack1\\Cleanup.exe\""
+"UninstallerArgs"="uninstall_pdlc -autologging"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\DLCs\Xpack2]
+"UninstallerPath"="\"C:\\Program Files (x86)\\Common Files\\EAInstaller\\Battlefield 4\\Xpack2\\Cleanup.exe\""
+"UninstallerArgs"="uninstall_pdlc -autologging"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\DLCs\Xpack3]
+"UninstallerPath"="\"C:\\Program Files (x86)\\Common Files\\EAInstaller\\Battlefield 4\\Xpack3\\Cleanup.exe\""
+"UninstallerArgs"="uninstall_pdlc -autologging"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\DLCs\Xpack4]
+"UninstallerPath"="\"C:\\Program Files (x86)\\Common Files\\EAInstaller\\Battlefield 4\\Xpack4\\Cleanup.exe\""
+"UninstallerArgs"="uninstall_pdlc -autologging"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\DLCs\Xpack5]
+"UninstallerPath"="\"C:\\Program Files (x86)\\Common Files\\EAInstaller\\Battlefield 4\\Xpack5\\Cleanup.exe\""
+"UninstallerArgs"="uninstall_pdlc -autologging"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\DLCs\Xpack6]
+"UninstallerPath"="\"C:\\Program Files (x86)\\Common Files\\EAInstaller\\Battlefield 4\\Xpack6\\Cleanup.exe\""
+"UninstallerArgs"="uninstall_pdlc -autologging"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\DLCs\Xpack7]
+"UninstallerPath"="\"C:\\Program Files (x86)\\Common Files\\EAInstaller\\Battlefield 4\\Xpack7\\Cleanup.exe\""
+"UninstallerArgs"="uninstall_pdlc -autologging"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\InstallOptSelect]
+"InstallPB"="1"
+@="1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\Xpack0]
+"Installed"="True"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\Xpack1]
+"Installed"="True"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\Xpack2]
+"Installed"="True"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\Xpack3]
+"Installed"="True"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\Xpack4]
+"Installed"="True"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\Xpack5]
+"Installed"="True"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\Xpack6]
+"Installed"="True"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield 4\Xpack7]
+"Installed"="True"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Battlefield V]
+"DisplayName"="Battlefield™ V"
+"Locale"="en_US"
+"Product GUID"="{e26b382f-e945-4f70-9318-121b683f1d61}"
+"Install Dir"="F:\\Games\\EA\\Battlefield V\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\BFH]
+"GDFBinary64"="B:\\Games\\EA\\BFH\\GDFBinary_en_US_64.dll"
+"DisplayName"="Battlefield™ Hardline"
+"Locale"="en_US"
+"Product GUID"="{CB4AC3DA-8CC1-4516-86DA-4078B57DB229}"
+"Install Dir"="B:\\Games\\EA\\BFH\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\BFH\DLCs]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\BFH\DLCs\Xpack1]
+"UninstallerPath"="\"C:\\Program Files (x86)\\Common Files\\EAInstaller\\BFH\\Xpack1\\Cleanup.exe\""
+"UninstallerArgs"="uninstall_pdlc -autologging"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\BFH\DLCs\Xpack4]
+"UninstallerPath"="\"C:\\Program Files (x86)\\Common Files\\EAInstaller\\BFH\\Xpack4\\Cleanup.exe\""
+"UninstallerArgs"="uninstall_pdlc -autologging"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\BFH\Xpack1]
+"Installed"="True"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\BFH\Xpack4]
+"Installed"="True"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\Need for Speed(TM) Most Wanted]
+"install dir"="B:\\Games\\Steam\\steamapps\\common\\Need for Speed(TM) Most Wanted"
+@=""
+"product guid"="{FB0127F3-985B-44CE-AE29-378CAF60B361}"
+"locale"="en_US"
+"displayname"="Need for Speed™ Most Wanted"
+"GDFBinary"="B:\\Games\\Steam\\steamapps\\common\\Need for Speed(TM) Most Wanted\\__Installer\\GDFBinary_en_US.dll"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EA Games\STAR WARS Battlefront II]
+"DisplayName"="STAR WARS™ Battlefront™ II"
+"Locale"="en_US"
+"Product GUID"="{8a882ce0-0c0b-4eb2-850c-28ebadab4f50}"
+"Install Dir"="B:\\Games\\EA\\STAR WARS Battlefront II\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Electronic Arts]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Electronic Arts\EA Desktop]
+"DesktopAppPath"="B:\\Games\\EA\\EA Desktop\\EA Desktop\\EADesktop.exe"
+"LauncherAppPath"="B:\\Games\\EA\\EA Desktop\\EA Desktop\\EALauncher.exe"
+"EaConnectMsAppPath"="B:\\Games\\EA\\EA Desktop\\EA Desktop\\EAConnect_microsoft.exe"
+"ErrorReporterPath"="B:\\Games\\EA\\EA Desktop\\EA Desktop\\ErrorReporter.exe"
+"ClientPath"="B:\\Games\\EA\\EA Desktop\\EA Desktop\\EADesktop.exe"
+"InstallLocation"="B:\\Games\\EA\\EA Desktop"
+"InstallSuccessful"="true"
+"BundleProviderKey"="{ad22aa5b-62ef-4e81-9484-7e2246952dae}"
+"CommonAppPathCreated"=dword:00000001
+"IsUnavailable"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Electronic Arts\EADM]
+"ClientPath"="B:\\Games\\EA\\EA Desktop\\EA Desktop\\EADesktop.exe"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Electronic Arts\Electronic Arts]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Electronic Arts\Electronic Arts\Command and Conquer 3 Kanes Wrath]
+"readme"="B:\\Games\\steamapps\\common\\Command and Conquer 3 - Kane's Wrath\\Support\\readme.txt"
+"installpath"="B:\\Games\\steamapps\\common\\Command and Conquer 3 - Kane's Wrath"
+"ProfileFolderName"="Profiles"
+"SaveFolderName"="SaveGames"
+"UserDataLeafName"="Command & Conquer 3 Kane's Wrath"
+"ScreenshotsFolderName"="Screenshots"
+"ReplayFolderName"="Replays"
+"Package"="{CC2422C9-F7B5-4175-B295-5EC2283AA674}"
+"registration"="Software\\Electronic Arts\\Electronic Arts\\Command and Conquer 3 Kanes Wrath\\ergc"
+"Hash"=dword:a4f76e5f
+"version"=dword:00010000
+"MapPackVersion"=dword:00010000
+"UseLocalUserMaps"=dword:00000000
+"language"="English"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Electronic Arts\Electronic Arts\Command and Conquer 3 Kanes Wrath\ergc]
+@="HTUL928LL5AZC84QU36T"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Electronic Arts\SimCity 2000 Special Edition (EA)]
+"CD Drive"="B:\\Games\\EA\\SimCity 2000 SE\\__Installer\\DISK1\\"
+"DisplayName"="SimCity 2000 Special Edition"
+"Folder"="B:\\Games\\EA\\SimCity 2000 SE\\"
+"Install Dir"="B:\\Games\\EA\\SimCity 2000 SE\\"
+"Installed From"="B:\\Games\\EA\\SimCity 2000 SE\\__Installer\\"
+"Language"="English (US)"
+"Locale"="en_US"
+"Product GUID"="{59D2C751-F7BE-4E9F-9C8C-1F16013802C7}"
+"ProductName"="SimCity 2000 Special Edition"
+"Suppression Exe"="Dosbox.exe"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Electronic Arts\SimCity 2000 Special Edition (EA)\1.0]
+"DisplayName"="SimCity 2000 Special Edition"
+"LanguageName"="English (US) "
+"Language"=dword:00000001
+"ProgramGroup"="B:\\Games\\EA\\SimCity 2000 SE\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin]
+"ClientPath"="B:\\Games\\EA\\EA Desktop\\EA Desktop\\EADesktop.exe"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games]
+"DisplayName"="Battlefield™ Hardline: Betrayal"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\1004841]
+"DisplayName"="Battlefield 4™ China Rising"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\1004842]
+"DisplayName"="Battlefield 4™ Naval Strike"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\1010958]
+"DisplayName"="Battlefield 4™ Digital Deluxe"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\1011164]
+"DisplayName"="The Sims™ 4"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\1011887]
+"DisplayName"="Battlefield 4™ Second Assault"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\1011893]
+"DisplayName"="Battlefield 4™ Dragon's Teeth"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\1011899]
+"DisplayName"="Battlefield 4™ Final Stand"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\1013920]
+"DisplayName"="Battlefield™ Hardline"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\1026023]
+"DisplayName"="Battlefield™ 1"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\1031205]
+"DisplayName"="Battlefield 4™ Night Operations"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\1031208]
+"DisplayName"="Battlefield 4™ Community Operations"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\1032167]
+"DisplayName"="Battlefield 4™ Legacy Operations"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\1035052]
+"DisplayName"="STAR WARS™ Battlefront™ II"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\1039093]
+"DisplayName"="Titanfall® 2"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\196216]
+"DisplayName"="Battlefield™ V"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\196485]
+"locale"="en_US"
+"displayname"="STAR WARS Jedi - Fallen Order™"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\71104]
+"DisplayName"="SimCity 2000™ Special Edition"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\71480]
+"DisplayName"="SimCity™: Complete Edition"
+"Locale"="en_US"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Origin Games\71530]
+"locale"="en_US"
+"displayname"="Need for Speed™ Most Wanted"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{335B50BC-6130-4BAF-9A6A-F1561270587B}]
+"DisplayName"="Battlefield™ 1"
+"DisplayVersion"="1.0.57.44284"
+"DisplayIcon"="\"B:\\Games\\EA\\Battlefield 1\\bf1.exe\""
+"UninstallString"="\"C:\\Program Files\\Common FilesEAInstaller\\Battlefield 1\\Cleanup.exe\" uninstall_game -autologging"
+"InstallLocation"="B:\\Games\\EA\\Battlefield 1\\"
+"Publisher"="Electronic Arts"
+"URLInfoAbout"="http://www.ea.com"
+"EstimatedSize"=dword:0516703f
+"HelpLink"="B:\\Games\\EA\\Battlefield 1\\Support\\EA Help\\Technical Support.en_US.rtf"

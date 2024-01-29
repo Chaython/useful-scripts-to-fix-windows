@@ -1,0 +1,3 @@
+Launch powershell as an administrator and enter “get-appxpackage Microsoft.GamingServices | remove-AppxPackage -allusers”
+In the same powershell window, enter “start ms-windows-store://pdp/?productid=9MWPM2CQNLHN”
+Install the app on that page, including accepting the UAC prompt when shown.
