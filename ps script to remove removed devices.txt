@@ -1,0 +1,7 @@
+# List all hidden devices
+$hiddenDevices = Get-PnpDevice | Where-Object { $_.Status -eq 'Unknown' }
+
+# Loop through all hidden devices and remove them
+foreach ($device in $hiddenDevices) {
+    pnputil /remove-device $device.InstanceId
+}
